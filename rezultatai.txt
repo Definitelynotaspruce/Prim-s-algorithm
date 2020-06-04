@@ -1,0 +1,4 @@
+Studento numeris 13, pradžios viršūnė 2 (skaičiuojant viską nuo 0)
+Briaunos (iš kurios viršūnės į kurią): 
+2-7	2-3	7-8	8-4	4-5	4-1	1-6	4-9	3-0	
+Minimalaus aprėpiančio medžio svoris - 118
